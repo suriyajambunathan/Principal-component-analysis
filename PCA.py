@@ -33,6 +33,7 @@ x2[0]=y[0]*v[0][0]
 x2[1]=y[0]*v[0][1]
 print('x1=',x1)
 print('x2=',x2)
+
 # Distance 
 m=v[0][1]/v[0][0]
 r=math.sqrt(1+m**2)
